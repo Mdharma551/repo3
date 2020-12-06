@@ -1,0 +1,11 @@
+WELCOME TO DEVOPS CLASS 
+TODAY WE DISSCUSS ABOUT GIT COMMANDS
+GIT
+--------
+touch file-name
+git add file-name
+git commit -m "label"
+git log 
+git show cid
+git push
+
