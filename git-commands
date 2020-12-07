@@ -8,4 +8,11 @@ git commit -m "label"
 git log 
 git show cid
 git push
+about branch
+--------
+git branch
+git branch branch name
+git checkout branch name
+git merge branch name
+git push origin branch name
 
